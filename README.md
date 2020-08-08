@@ -1,2 +1,2 @@
-# My-first-algorithm
-my first ever algorithm for those who dont know how to make one.
+# p5.play-boilerplate
+Boiler plate for p5.play
